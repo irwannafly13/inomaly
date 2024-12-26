@@ -12,7 +12,7 @@ Installation
 
 ``` r
 install.packages("devtools")
-devtools::install_github("irwannafly/inomaly")
+devtools::install_github("irwannafly13/inomaly")
 ```
 
 
